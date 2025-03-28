@@ -1,4 +1,4 @@
-# My AWS Web App Project
+# Smart Static Website Deployment on AWS
 
 ## Project Overview
 
