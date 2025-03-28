@@ -12,6 +12,7 @@ This project enhances a basic AWS S3 static website deployment by integrating Cl
 - **CloudFront**
 - **AWS Certificate Manager**
 - **Cloudwatch**
+- **Cloudflare**
 
 ---
 
